@@ -268,9 +268,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/pyxis/proprietary/product/lib64/vendor.qti.latency@2.0.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.qti.latency@2.0.so
 
 PRODUCT_PACKAGES += \
-    libaudio_log_utils \
-    libsdm-disp-vndapis \
-    libthermalclient \
     vendor.qti.hardware.fm@1.0 \
     com.quicinc.cne.api@1.0 \
     com.quicinc.cne.api@1.1 \
@@ -278,20 +275,10 @@ PRODUCT_PACKAGES += \
     com.quicinc.cne.constants@2.0 \
     com.quicinc.cne.constants@2.1 \
     WfdService \
-    CACertService \
-    CneApp \
-    IWlanService \
-    NotchOverlay \
-    SoterService \
-    SoterService \
-    SoterService \
-    TimeService \
-    com.qualcomm.qti.improvetouch.service \
-    com.qualcomm.qti.improvetouch.service \
-    com.qualcomm.qti.improvetouch.service \
     QtiTelephonyService \
     datastatusnotification \
     embms \
+    libplatformconfig \
     imssettings \
     uceShimService \
     dpmserviceapp \
