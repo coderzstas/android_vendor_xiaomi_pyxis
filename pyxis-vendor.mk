@@ -2040,11 +2040,7 @@ PRODUCT_PACKAGES += \
     IWlanService \
     NotchOverlay \
     SoterService \
-    SoterService \
-    SoterService \
     TimeService \
-    com.qualcomm.qti.improvetouch.service \
-    com.qualcomm.qti.improvetouch.service \
     com.qualcomm.qti.improvetouch.service \
     QtiTelephonyService \
     datastatusnotification \

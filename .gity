@@ -1,0 +1,18 @@
+dirty
+# Пожалуйста, введите сообщение коммита для ваших изменений. Строки,
+# начинающиеся с «#» будут проигнорированы, а пустое сообщение
+# отменяет процесс коммита.
+#
+# На ветке buildvendor
+# Ваша ветка обновлена в соответствии с «origin/buildvendor».
+#
+# Изменения, которые будут включены в коммит:
+#	изменено:      Android.bp
+#	изменено:      pyxis-vendor.mk
+#
+# Неотслеживаемые файлы:
+#	proprietary/lib/libplatformconfig.so
+#	proprietary/lib64/libplatformconfig.so
+#	"proprietary/lib64/\320\241\321\201\321\213\320\273\320\272\320\260 \320\275\320\260 libplatformconfig.so"
+#	proprietary/product/etc/permissions/telephony_product_privapp-permissions-qti.xml
+#
