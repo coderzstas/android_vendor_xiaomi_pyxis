@@ -984,6 +984,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/pyxis/proprietary/vendor/lib/libgralloccore.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgralloccore.so \
     vendor/xiaomi/pyxis/proprietary/vendor/lib/libgrallocutils.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgrallocutils.so \
     vendor/xiaomi/pyxis/proprietary/vendor/lib/libgsl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgsl.so \
+    vendor/xiaomi/pyxis/proprietary/vendor/lib/libgui_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgui_vendor.so \
     vendor/xiaomi/pyxis/proprietary/vendor/lib/libhbtpclient.so:$(TARGET_COPY_OUT_VENDOR)/lib/libhbtpclient.so \
     vendor/xiaomi/pyxis/proprietary/vendor/lib/libhbtpdsp.so:$(TARGET_COPY_OUT_VENDOR)/lib/libhbtpdsp.so \
     vendor/xiaomi/pyxis/proprietary/vendor/lib/libhbtpfrmwk.so:$(TARGET_COPY_OUT_VENDOR)/lib/libhbtpfrmwk.so \
@@ -1505,6 +1506,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/pyxis/proprietary/vendor/lib64/libgralloccore.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgralloccore.so \
     vendor/xiaomi/pyxis/proprietary/vendor/lib64/libgrallocutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgrallocutils.so \
     vendor/xiaomi/pyxis/proprietary/vendor/lib64/libgsl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgsl.so \
+    vendor/xiaomi/pyxis/proprietary/vendor/lib64/libgui_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgui_vendor.so \
     vendor/xiaomi/pyxis/proprietary/vendor/lib64/libhbtpclient.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhbtpclient.so \
     vendor/xiaomi/pyxis/proprietary/vendor/lib64/libhbtpdsp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhbtpdsp.so \
     vendor/xiaomi/pyxis/proprietary/vendor/lib64/libhbtpfrmwk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhbtpfrmwk.so \
