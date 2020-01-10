@@ -49,4 +49,4 @@ as anyway perflock calls of these resources would fail. -->
         <Config MajorValue="0xD" MinorValue="0x6" Node="/sys/class/devfreq/soc:qcom,memlat-cpu6/min_freq"/> <!-- memlat_min_freq -->
 
     </PerfResources>
-</ResourceConfigs>
+</ResourceConfigs>libhfp.so
