@@ -1725,6 +1725,8 @@ PRODUCT_PACKAGES += \
     embms \
     imssettings \
     uceShimService \
+    HotwordEnrollmentOKGoogleHEXAGON \
+    HotwordEnrollmentXGoogleHEXAGON \
     dpmserviceapp \
     ims \
     qcrilmsgtunnel \
