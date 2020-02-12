@@ -1668,6 +1668,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/pyxis/proprietary/product/lib64/libaptX_encoder.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/libaptX_encoder.so
 
 PRODUCT_PACKAGES += \
+    libplatformconfig \
     libaudio_log_utils \
     libsdm-disp-vndapis \
     libthermalclient \
